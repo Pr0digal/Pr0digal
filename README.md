@@ -6,7 +6,7 @@ I'm a Security Engineer with hands-on experience in **CyberArk**, **Palo Alto**,
 - 🔐 Privileged Access Management (PAM)
 - 🛡️ Threat Detection & Response
 - 📊 Security Monitoring & SIEM (Log Insight / Aria)
-- ☁️ Cloud Security (Azure, SC-200 labs)
+- ☁️ Cloud Security (Azure labs)
 - 💻 Scripting with PowerShell & Python
 
 ## 🌱 Currently Learning
