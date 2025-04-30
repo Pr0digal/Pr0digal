@@ -1,12 +1,24 @@
-# ☁️ Azure Security Labs
+# 👋 Hi, I’m R. (aka @Pr0digal)
 
-Hands-on labs and demos to showcase Azure security skills, aligned with SC-200 and Microsoft Defender.
+I'm a Security Engineer with hands-on experience in **CyberArk**, **Palo Alto**, and **security automation**. I specialize in building practical solutions for securing infrastructure, automating repetitive tasks, and responding to real-world threats.
 
-## 🧪 Labs
-- Sentinel alerting, workbook creation
-- Defender for Endpoint auto-response
-- KQL queries for threat hunting
+## 👀 Interests
+- 🔐 Privileged Access Management (PAM)
+- 🛡️ Threat Detection & Response
+- 📊 Security Monitoring & SIEM (Log Insight / Aria)
+- ☁️ Cloud Security (Azure, SC-200 labs)
+- 💻 Scripting with PowerShell & Python
 
-## 🧠 Playbook Samples
-- Located under `/playbook-samples/`
-- Format: JSON for Microsoft Sentinel logic apps
+## 🌱 Currently Learning
+- Binary Exploitation
+- Advanced Cloud & Identity Security
+- Reverse Engineering
+
+## 🧰 This GitHub Portfolio
+This is where I showcase:
+- 🧠 Security cheat sheets & KQL queries
+- 📁 PowerShell scripts for AD, CyberArk, and automation
+- 🔧 Custom-built playbooks and labs
+- ☁️ Azure security labs and infrastructure demos
+
+---
