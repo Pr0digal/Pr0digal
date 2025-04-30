@@ -14,11 +14,21 @@ I'm a Security Engineer with hands-on experience in **CyberArk**, **Palo Alto**,
 - Advanced Cloud & Identity Security
 - Reverse Engineering
 
-## 🧰 This GitHub Portfolio
-This is where I showcase:
-- 🧠 Security cheat sheets & KQL queries
-- 📁 PowerShell scripts for AD, CyberArk, and automation
-- 🔧 Custom-built playbooks and labs
-- ☁️ Azure security labs and infrastructure demos
+## 🧰 Projects & Scripts
+
+| Repo | Description |
+|------|-------------|
+| 🔐 [CyberArk Automation](https://github.com/Pr0digal/cyberark-automation) | Vault onboarding, PSM cleanup, REST API usage |
+| 💻 [PowerShell Security Scripts](https://github.com/Pr0digal/powershell-security-scripts) | AD cleanup, registry comparisons, group audits |
+| 📊 [KQL Threat Hunting](https://github.com/Pr0digal/kql-threat-hunting) | Sentinel queries, MITRE ATT&CK hunting, alert rules |
+| 📎 [Security Cheat Sheets](https://github.com/Pr0digal/security-cheatsheets) | Quick references for CyberArk, KQL, PowerShell |
 
 ---
+
+## 🧪 Labs & Demos
+
+| Repo | Description |
+|------|-------------|
+| ☁️ [Azure Security Labs](https://github.com/Pr0digal/azure-security-labs) | SC-200 labs: Sentinel, Defender, Conditional Access |
+| 🧠 [Incident Response Playbooks](https://github.com/Pr0digal/incident-response-playbooks) | Markdown-based IR plans: phishing, credential abuse, malware |
+| 🎯 CTF Writeups (coming soon) | Binary exploitation, reverse engineering on Windows |
