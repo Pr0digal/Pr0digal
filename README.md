@@ -1,9 +1,21 @@
-- 👋 Hi, I’m @Pr0digal
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning  Security
+👋 Hi, I’m R. (aka @Pr0digal)
 
+I'm a Security Engineer with hands-on experience in **CyberArk**, **Palo Alto**, and **security automation**. I specialize in building practical solutions for securing infrastructure, automating repetitive tasks, and responding to real-world threats.
 
-<!---
-Pr0digal/Pr0digal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👀 Interests
+- 🔐 Privileged Access Management (PAM)
+- 🛡️ Threat Detection & Response
+- 📊 Security Monitoring & SIEM (Log Insight / Aria)
+- ☁️ Cloud Security (Azure, SC-200 labs)
+- 💻 Scripting with PowerShell & Python
+
+## 🌱 Currently Learning
+- Advanced Cloud & Identity Security
+- Reverse Engineering
+
+## 🧰 This GitHub Portfolio
+This is where I showcase:
+- 🧠 Security cheat sheets & KQL queries
+- 📁 PowerShell scripts for AD, CyberArk, and automation
+- 🔧 Custom-built playbooks and labs
+- ☁️ Azure security labs and infrastructure demos
