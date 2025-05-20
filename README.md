@@ -30,5 +30,6 @@ I'm a Security Engineer with hands-on experience in **CyberArk**, **Palo Alto**,
 | Repo | Description |
 |------|-------------|
 | ☁️ [Azure Security Labs](https://github.com/Pr0digal/azure-security-labs) | SC-200 labs: Sentinel, Defender, Conditional Access |
+| 💻 [Python dumb scripts](https://github.com/Pr0digal/dumb-python-scripts) | Silly Pythons Scripts |
 | 🧠 [Incident Response Playbooks](https://github.com/Pr0digal/incident-response-playbooks) | Markdown-based IR plans: phishing, credential abuse, malware |
 | 🎯 CTF Writeups (coming soon) | Binary exploitation, reverse engineering on Windows |
