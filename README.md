@@ -1,10 +1,5 @@
 # 👋 Hi, I’m R. (aka @Pr0digal)
 
-![PowerShell]
-![CyberArk])
-![Python]
-![Azure]
-
 I'm a Security Engineer who believes in building scalable defenses and automating myself out of repetitive work. Whether it's cleaning up AD, scripting away incident headaches, or spinning up a cloud lab to break stuff — I'm always learning and always shipping.
 
 ---
