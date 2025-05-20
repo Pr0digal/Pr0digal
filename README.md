@@ -1,9 +1,9 @@
 # 👋 Hi, I’m R. (aka @Pr0digal)
 
-![PowerShell](https://img.shields.io/badge/-PowerShell-blue?logo=powershell)
-![CyberArk](https://img.shields.io/badge/-CyberArk-informational)
-![Python](https://img.shields.io/badge/-Python-black?logo=python)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure)
+![PowerShell]
+![CyberArk])
+![Python]
+![Azure]
 
 I'm a Security Engineer who believes in building scalable defenses and automating myself out of repetitive work. Whether it's cleaning up AD, scripting away incident headaches, or spinning up a cloud lab to break stuff — I'm always learning and always shipping.
 
@@ -61,12 +61,5 @@ I'm a Security Engineer who believes in building scalable defenses and automatin
 
 ---
 
-## 🤝 Let's Connect
-
-- 💼 Open to roles in cyber defense, cloud security, and threat automation
-- 🛠️ Always down to collaborate on open-source tools or offensive/defensive labs
-- 📫 [LinkedIn](https://www.linkedin.com/in/your-link) | [Email](mailto:your.email@domain.com)
-
----
 
 > “Ship often, break things safely, automate what annoys you.” – Me, probably.
