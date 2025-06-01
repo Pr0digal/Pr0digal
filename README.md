@@ -23,6 +23,7 @@ I'm a Security Engineer who believes in building scalable defenses and automatin
 ## 🛠️ Featured Repositories
 
 ### 🔐 PAM & Identity
+Tools and references for managing privileged accounts and secure onboarding flows.
 
 | Repo | Description |
 |------|-------------|
